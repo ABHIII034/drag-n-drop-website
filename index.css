@@ -1,0 +1,15 @@
+  /* .element {
+  background-color: #ffe9c4;
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: grab;
+}  */
+
+.dropped {
+  border: 1px dashed #ccc;
+  padding: 10px;
+}
+
+#canvas > *:hover {
+  outline: 2px solid #007bff;
+}
